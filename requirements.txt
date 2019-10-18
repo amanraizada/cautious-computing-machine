@@ -22,7 +22,7 @@ enum34==1.1.6
 facepy==1.0.9
 Faker==0.7.18
 fbchat==1.0.19
-Flask==0.12.2
+Flask==1.0
 future==0.16.0
 futures==3.1.1
 gunicorn==19.7.1
